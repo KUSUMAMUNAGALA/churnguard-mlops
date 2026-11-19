@@ -1,4 +1,5 @@
 venv/
 __pycache__/
 mlruns/
-.ipynb_checkpoints/
+.ipynb_checkpoints/mlflow.db
+mlartifacts/
